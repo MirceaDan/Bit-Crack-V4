@@ -1,0 +1,4 @@
+D:\SMM\freelacing\BitCrackLite\Project\Debug\secp256k1lib.pdb
+D:\SMM\freelacing\BitCrackLite\Project\secp256k1lib\Debug\secp256k1lib.pdb
+D:\SMM\freelacing\BitCrackV3\Project\Debug\secp256k1lib.pdb
+D:\SMM\freelacing\BitCrackV3\Project\secp256k1lib\Debug\secp256k1lib.pdb
